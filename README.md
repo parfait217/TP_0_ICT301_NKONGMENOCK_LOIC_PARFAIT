@@ -28,7 +28,7 @@ Chaque principe est démontré avec :
 ├── DIP/                  # Dependency Inversion Principle
 │   ├── Avant_Refactoring/
 │   └── Apres_Refactoring/
-├── TP_SOLID_UML_Diagrammes_NKONGMENOCK_LOIC_PARFAIT.pdf   # Tous les diagrammes UML
+├── model_exemple_principe_solid_23u2241.pdf   # Tous les diagrammes UML
 └── README.md             # Ce fichier
 text## Comment exécuter le projet
 
